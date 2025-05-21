@@ -1,0 +1,12 @@
+Names/Courses C1   C2   C3
+Doe, John     A-   B+   C
+Smith, Jane   A-   A-   A
+Brown, Bob ,B, C+, B
+
+
+line_list = [
+[Names/Courses C1   C2   C3] 0
+[Doe, John     A-   B+   C] 1
+[Smith, Jane   A-   A-   A] 2
+[Brown, Bob    B    C+   B] 3
+]

@@ -1,0 +1,6 @@
+ID,Name,Age,Class,Grade
+133,Ali Yılmaz,15,10A,89
+102,Ayşe Demir,14,9B,92
+103,Mehmet Kaya,16,11C,78
+104,Zeynep Çelik,15,10A,85
+105,Ahmet Can,17,12B,90
